@@ -56,3 +56,8 @@ Built by [Marie Spreitzer](https://github.com/mariespreitzer) — Interaction De
 ## Maintainer documentation
 
 [Project guide: setup, architecture, verification and operations](docs/PROJECT.md) · [Changelogs](changelogs/README.md). The project guide distinguishes implemented behavior from proposals and live deployment evidence.
+
+
+## Architecture diagrams
+
+[Current architecture, data flow and change-planning guidance](docs/diagrams/README.md).
