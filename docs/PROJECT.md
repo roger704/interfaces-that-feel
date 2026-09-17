@@ -23,3 +23,7 @@ Every actual deployment needs a distinct record under [changelogs](../changelogs
 ## Interfaces and further reading
 
 No HTTP API. The integration contract is the skill instruction content consumed by a compatible agent.
+
+## Architecture diagrams
+
+Read [the current architecture and data-flow maps](diagrams/README.md) before planning changes. Proposed behavior is labeled separately from implemented behavior.
